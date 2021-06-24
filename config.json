@@ -1,22 +1,22 @@
 {
   "menu": {
-    "agenda": "https://www.v-ex.com/",
-    "livechat": "https://www.v-ex.com/exhibitions/",
-    "meetings": "https://www.v-ex.com/exhibitions/",
-    "messages": "https://www.v-ex.com/",
-    "attendees": "https://www.v-ex.com/about/",
-    "cpd": "https://www.v-ex.com/exhibitions/",
-    "social-wall": "https://www.v-ex.com/halls/",
-    "socialshare": "https://www.printing-expo.online/",
-    "helpdesk": "https://www.v-ex.com/exhibitions/",
-    "faq": "https://www.v-ex.com/faq/",
-    "contactus":"https://www.v-ex.com/contact-us/",
-    "feedback": "https://www.v-ex.com/news/"
+    "agenda": "",
+    "livechat": "",
+    "meetings": "",
+    "messages": "",
+    "attendees": "",
+    "cpd": "",
+    "social-wall": "",
+    "socialshare": "",
+    "helpdesk": "",
+    "faq": "",
+    "contactus":"",
+    "feedback": ""
 
   },
-  "auditoriums": "https://www.v-ex.com/",
-  "exhibition": "https://www.v-ex.com/",
-  "lobby": "https://www.v-ex.com/"
+  "auditoriums": "",
+  "exhibition": ",
+  "lobby": ""
 }
 
 
